@@ -24,3 +24,7 @@ you may also add delivery boy as a reference for our website
 4)some buttons arent working i want you to ensure working all of them and also replace the items realistic food image not cartoons and also increase the  list and keep upto 7-8 items per category
 
 5)some photos in menu are not visible and sign in option not working
+
+
+website link-: 
+cozy-klepon-4e59e7.netlify.app
